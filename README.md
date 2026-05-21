@@ -33,7 +33,3 @@ Repo này được tạo ra để:
 - Ôn tập các kỹ thuật tấn công phổ biến theo chuẩn OWASP
 - Tham khảo lại khi cần
 
-## Disclaimer
-
-> Tất cả nội dung trong repo này chỉ phục vụ mục đích **học tập và nghiên cứu bảo mật**.  
-> Không sử dụng cho mục đích tấn công hệ thống thực tế.
